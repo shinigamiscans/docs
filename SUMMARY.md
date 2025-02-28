@@ -17,9 +17,4 @@
 
 ## Tutorial Dasar
 
-* [Editor](tutorial-dasar/editor.md)
-* [Markdown](tutorial-dasar/markdown.md)
-* [Images & media](tutorial-dasar/images-and-media.md)
-* [Interactive blocks](tutorial-dasar/interactive-blocks.md)
-* [OpenAPI](tutorial-dasar/openapi.md)
 * [Integrations](tutorial-dasar/integrations.md)

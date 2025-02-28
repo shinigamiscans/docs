@@ -38,3 +38,5 @@ Kalau kamu diarahkan ke `auth.shinigami.gg`setelah konfirmasi (lihat gambar diba
 
 1. Setelah klik tombol **Konfirmasi**, kamu akan diarahkan ke halaman sukses.
 2. Klik tombol **Login** untuk masuk ke akun kamu.
+
+<figure><img src=".gitbook/assets/04-register-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
