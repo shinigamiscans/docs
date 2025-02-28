@@ -15,7 +15,7 @@ description: Cara Login dengan OTP Email
 2. Masukkan email kamu di kolom yang tersedia.
 3. Klik **Send** buat menerima **One-Time Password (OTP)** lewat email.
 
-<figure><img src=".gitbook/assets/02-email-otp.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02-email-otp.png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Langkah 2: Cek Email Kamu
 
@@ -23,7 +23,7 @@ description: Cara Login dengan OTP Email
 2. Kamu bakal dapet **6-digit OTP**.
 3. Salin kode **OTP** tersebut.
 
-<figure><img src=".gitbook/assets/02-email-otp-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02-email-otp-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Langkah 3: Masukkan OTP
 
@@ -31,7 +31,7 @@ description: Cara Login dengan OTP Email
 2. Masukkan **6-digit OTP** yang kamu terima.
 3. Klik **Verify** buat menyelesaikan proses **Login**.
 
-<figure><img src=".gitbook/assets/02-email-otp-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02-email-otp-4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Langkah 4: Berhasil Login
 

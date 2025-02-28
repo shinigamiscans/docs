@@ -6,14 +6,11 @@
 
 * [Wajib BACA!](akses-shinigami/wajib-baca.md)
 * [Login Dengan Social](akses-shinigami/quickstart.md)
-
-***
-
-* [Daftar Menggunakan Email](daftar-menggunakan-email.md)
-* [Login dengan Email OTP](publish-your-docs.md)
-* [Login Dengan Email Dan Password](login-dengan-email-dan-password.md)
-* [Reset Password](reset-password.md)
-* [Mengatur Password](mengatur-password.md)
+* [Daftar Menggunakan Email](akses-shinigami/daftar-menggunakan-email.md)
+* [Login dengan Email OTP](akses-shinigami/publish-your-docs.md)
+* [Login Dengan Email Dan Password](akses-shinigami/login-dengan-email-dan-password.md)
+* [Mengatur Password](akses-shinigami/mengatur-password.md)
+* [Reset Password](akses-shinigami/reset-password.md)
 
 ## Tutorial Dasar
 

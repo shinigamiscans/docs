@@ -19,7 +19,7 @@ description: Cara Daftar dengan Email dan Password.
    * **Password** dan **konfirmasi password**
 3. Klik **Register**.
 
-<figure><img src=".gitbook/assets/04-register-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/04-register-1.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Langkah 2: Konfirmasi Email
 
@@ -27,12 +27,12 @@ description: Cara Daftar dengan Email dan Password.
 2. Cari email dari **Shinigami ID**.
 3. Klik tombol **Konfirmasi** di email.
 
-<figure><img src=".gitbook/assets/04-register-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/04-register-2.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Kalau kamu diarahkan ke `auth.shinigami.gg`setelah konfirmasi (lihat gambar dibawah) artinya email kamu sudah terkonfirmasi, dan bisa langsung balik ke Shinigami dan Login
 
-![](<.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 {% endhint %}
 
 #### Langkah 3: Verifikasi Berhasil
@@ -40,4 +40,4 @@ Kalau kamu diarahkan ke `auth.shinigami.gg`setelah konfirmasi (lihat gambar diba
 1. Setelah klik tombol **Konfirmasi**, kamu akan diarahkan ke halaman sukses.
 2. Klik tombol **Login** untuk masuk ke akun kamu.
 
-<figure><img src=".gitbook/assets/04-register-3.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/04-register-3.jpg" alt="" width="563"><figcaption></figcaption></figure>

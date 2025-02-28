@@ -15,7 +15,7 @@ description: Cara Mengatur Password
 1. Klik foto profil kamu di pojok kanan atas.
 2. Pilih **Pengaturan (Settings)** dari menu dropdown.
 
-<figure><img src=".gitbook/assets/03-set-password-1.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03-set-password-1.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Langkah 2: Ubah Password
 
@@ -23,6 +23,6 @@ description: Cara Mengatur Password
 2. Masukkan **password baru**.
 3. Klik **Save Changes** buat memperbarui **Password** kamu.
 
-<figure><img src=".gitbook/assets/03-set-password-2.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/03-set-password-2.jpg" alt=""><figcaption></figcaption></figure>
 
 #### Langkah 4: Selamat Kamu sudah berhasil membuat atau memperbarui password.
