@@ -1,5 +1,6 @@
 ---
 icon: envelope
+description: Cara Daftar dengan Email dan Password.
 ---
 
 # Daftar Menggunakan Email

@@ -17,4 +17,4 @@
 
 ## Tutorial Dasar
 
-* [Integrations](tutorial-dasar/integrations.md)
+* [Reading Page](tutorial-dasar/reading-page.md)
