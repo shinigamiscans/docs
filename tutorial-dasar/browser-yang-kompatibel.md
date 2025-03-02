@@ -1,3 +1,7 @@
+---
+icon: chrome
+---
+
 # Browser yang Kompatibel
 
 ## Kompatibilitas Peramban
@@ -8,11 +12,11 @@
 * **Firefox Android**:  :white\_check\_mark:
 * **Microsoft Edge Android**: :white\_check\_mark:
 * **Samsung Internet**: :white\_check\_mark:
-* **Opera untuk Android**: :x:
-* **Opera Mini**: Didukung&#x20;
+* **Opera untuk Android**: :x:  Error Wakelock API.
+* **Opera Mini**: :white\_check\_mark:
 * **Brave untuk Android**: :white\_check\_mark:
-* **UC Browser**: :white\_check\_mark:
-* **Puffin Browser**: :white\_check\_mark:
+* **UC Browser**: Belum Dicoba
+* **Puffin Browser**: Belum Dicoba
 
 
 
