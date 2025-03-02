@@ -4,7 +4,7 @@ icon: chrome
 
 # Browser yang Kompatibel
 
-## Kompatibilitas Peramban
+
 
 ### Android
 
