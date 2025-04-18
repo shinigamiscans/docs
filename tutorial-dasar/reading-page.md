@@ -1,6 +1,6 @@
 ---
-icon: book-open
 description: Tutorial dan Bagian-bagian Reading Page
+icon: book-open
 ---
 
 # Reading Page
@@ -34,7 +34,7 @@ Header di bagian atas menunjukkan **Judul Komik** dan **Chapter Saat Ini**.
 * **Tombol Back** :arrow\_left: → Kembali ke halaman **Manga Detail**.
 * **Tombol Home** :house: → Kembali ke **Homepage**
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 2. Navigasi di Bagian Bawah
 

@@ -1,6 +1,6 @@
 ---
-icon: envelope
 description: Cara Daftar dengan Email dan Password.
+icon: envelope
 ---
 
 # Daftar Menggunakan Email
@@ -32,7 +32,7 @@ description: Cara Daftar dengan Email dan Password.
 {% hint style="info" %}
 Kalau kamu diarahkan ke `auth.shinigami.gg`setelah konfirmasi (lihat gambar dibawah) artinya email kamu sudah terkonfirmasi, dan bisa langsung balik ke Shinigami dan Login
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 {% endhint %}
 
 ### Langkah 3: Verifikasi Berhasil
