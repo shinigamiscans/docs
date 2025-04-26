@@ -1,3 +1,7 @@
+---
+icon: chrome
+---
+
 # Tutorial Mendapatkan Role Premium
 
 ### 📘 Panduan Penggunaan Bot Premium — _Shi Chan_
