@@ -48,7 +48,9 @@ Ikuti panduan ini untuk mengirim ulang data secara manual.
 
 #### B. Via **Discord**
 
-Join Discord Shinigami [https://discord.gg/shinigamid](https://discord.gg/shinigamid)
+1. Pastikan sudah join server: [https://discord.gg/shinigamid](https://discord.gg/shinigamid)
+2. pergi ke channel #req-role-premium
+3. Jalankan Command:&#x20;
 
 ```
 /claim donation_id:<DonationID> email:<email>
